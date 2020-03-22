@@ -1,6 +1,6 @@
 # Luis von Ahn
 
-A seminar paper written in Latex for the Techincal and Scientific Writing course on the Faculty of Mathematics, University of Belgrade
+A seminar paper written in Latex for the Techincal and Scientific Writing course at the Faculty of Mathematics, University of Belgrade
 
 ## Authors
 - Aleksandar Šmigić, mi19028@alas.matf.bg.ac.rs
